@@ -1,2 +1,2 @@
 # csam
-Cybersecurity Asset Management (CSAM)
+Cybersecurity and Assessment Management (CSAM)
