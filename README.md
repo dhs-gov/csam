@@ -1,2 +1,2 @@
 # csam
-Cybersecurity and Assessment Management (CSAM)
+Cybersecurity and Assessment Management (CSAM) client
